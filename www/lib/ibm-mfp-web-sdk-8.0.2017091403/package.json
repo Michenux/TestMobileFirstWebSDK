@@ -1,0 +1,27 @@
+{
+  "name": "ibm-mfp-web-sdk",
+  "version": "8.0.2017091403",
+  "description": "IBM MobileFirst Platform Foundation Web Environment SDK",
+  "author": "IBM",
+  "main": "ibmmfpf.js",
+  "homepage": "https://git.ng.bluemix.net/ibmmfpf/ibm-mfp-web-sdk",
+  "repository": {
+    "type": "git",
+    "url": "https://git.ng.bluemix.net/ibmmfpf/ibm-mfp-web-sdk/tree/master"
+  },
+  "typings": "./lib/typings/ibmmfpf.d.ts",
+  "keywords": [
+    "ibm",
+    "worklight",
+    "mobilefirst",
+    "mfp",
+    "web sdk",
+    "cordova-web"
+  ],
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "dependencies": {
+    "promiz": "1.0.5",
+    "jssha": "2.2.0",
+    "sjcl": "1.0.3"
+  }
+}

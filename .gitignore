@@ -1,0 +1,6 @@
+platforms
+plugins
+.vscode
+mobilefirst
+node_modules
+yarn.lock

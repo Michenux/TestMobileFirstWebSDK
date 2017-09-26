@@ -1,0 +1,9 @@
+{
+  "name": "test-mobilefirst-websdk",
+  "version": "1.0.0",
+  "description": "Sample app to test MobileFirst Web SDK",
+  "private": true,
+  "dependencies": {
+    "ibm-mfp-web-sdk": "8.0.2017091403"
+  }
+}
